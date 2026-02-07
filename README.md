@@ -13,12 +13,10 @@ A MicroPython driver for the HLK-LD2410 human presence radar sensor.
 
 ### Using mip (Recommended)
 
-If your device is connected to the internet:
+To install the library on your device using `mpremote`:
 
-```python
-import mip
-# Replace with your repo URL once published
-mip.install("github:your-username/micropython-ld2410")
+```bash
+mpremote mip install github:melastmohican/micropython-ld2410
 ```
 
 ### Manual Installation
