@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "MicroPython driver for HLK-LD2410C human presence radar sensor",
   "urls": [
-    ["src/ld2410/__init__.py", "lib/ld2410/__init__.py"],
-    ["src/ld2410/ld2410.py", "lib/ld2410/ld2410.py"]
+    ["lib/ld2410/__init__.py", "src/ld2410/__init__.py"],
+    ["lib/ld2410/ld2410.py", "src/ld2410/ld2410.py"]
   ],
   "deps": []
 }
