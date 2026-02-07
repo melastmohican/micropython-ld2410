@@ -25,9 +25,9 @@ keywords = ["micropython", "ld2410", "radar", "sensor", "presence", "driver"]
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/your-username/micropython-ld2410"
-Source = "https://github.com/your-username/micropython-ld2410"
-Issues = "https://github.com/your-username/micropython-ld2410/issues"
+Homepage = "https://github.com/melastmohican/micropython-ld2410"
+Source = "https://github.com/melastmohican/micropython-ld2410"
+Issues = "https://github.com/melastmohican/micropython-ld2410/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/ld2410"]
